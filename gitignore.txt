@@ -1,0 +1,13 @@
+
+*.SchDocPreview
+*.PrjPCB.zip
+*.log
+*.PcbDocPreview
+*.SchDoc.Zip
+*.PcbDoC.Zip
+*.PcbLib.zip
+*.SchLib.zip
+*.OutJob.Zip
+*.PCBDwf.Zip
+*.MbaDoc.Zip
+
